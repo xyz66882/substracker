@@ -242,7 +242,7 @@ const loginPage = `
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>订阅管理系统</title>
   <link href="https://my.tu.fwh.is/file/substracker/1754551303162_tailwind.min.css" rel="stylesheet">
-  <link href="https://my.tu.fwh.is/file/substracker/1754551267325_all.min.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
   <style>
     .login-container {
       background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
