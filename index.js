@@ -394,8 +394,8 @@ const loginPage = `
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>订阅管理系统</title>
-  <link href="https://cdn.byebug.cn/cache/tailwindcss/2.2.19/tailwind.css" rel="stylesheet">
-  <link href="https://cdn.byebug.cn/cache/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+  <link href="https://my.tu.fwh.is/file/substracker/1754551303162_tailwind.min.css" rel="stylesheet">
+  <link href="https://cdn.byebug.cn/cache/font-awesome/7.0.1/css/all.min.css" rel="stylesheet">
   <style>
     .login-container {
       background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
@@ -502,8 +502,8 @@ const adminPage = `
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>订阅管理系统</title>
-  <link href="https://cdn.byebug.cn/cache/tailwindcss/2.2.19/tailwind.css" rel="stylesheet">
-  <link href="https://cdn.byebug.cn/cache/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+  <link href="https://my.tu.fwh.is/file/substracker/1754551303162_tailwind.min.css" rel="stylesheet">
+  <link href="https://cdn.byebug.cn/cache/font-awesome/7.0.1/css/all.min.css" rel="stylesheet">
   <style>
     .btn-primary { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); transition: all 0.3s; }
     .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); }
@@ -2827,8 +2827,8 @@ const configPage = `
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>系统配置 - 订阅管理系统</title>
-  <link href="https://cdn.byebug.cn/cache/tailwindcss/2.2.19/tailwind.css" rel="stylesheet">
-  <link href="https://cdn.byebug.cn/cache/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+  <link href="https://my.tu.fwh.is/file/substracker/1754551303162_tailwind.min.css" rel="stylesheet">
+  <link href="https://cdn.byebug.cn/cache/font-awesome/7.0.1/css/all.min.css" rel="stylesheet">
   <style>
     .btn-primary { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); transition: all 0.3s; }
     .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); }
